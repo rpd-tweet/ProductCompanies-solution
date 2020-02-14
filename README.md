@@ -2,15 +2,6 @@
 * [Arrays and Strings](#Arrays-and-Strings)
 * [Linked Lists](#Linked-Lists)
 * [Stacks and Queues](#Stacks-and-Queues)
-* [Trees and Graph](#Trees-and-Graph)
-* [Bit Manipulation](#Bit-Manipulation)
-* [Math and Logic Puzzles](#Math-and-Logic-Puzzles)
-* [Recursion and Dynamic Programming](#Recursion-and-Dynamic-Programming)
-* [System Design and Scalability](#System-Design-and-Scalability)
-* [Testing](#Testing)
-* [C and C++](#C-and-C++)
-
-
 
 # Arrays and Strings
 
