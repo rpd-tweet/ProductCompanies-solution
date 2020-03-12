@@ -56,7 +56,7 @@ class CheckBalance
 		if (root==null)
 		{
 			height.height=0;
-			return false;
+			return true;
 		}
 		height lh=new height();
 		height rh=new height();
